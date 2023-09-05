@@ -1,0 +1,5 @@
+# 강의코드 등 외부소스
+/cloneProject/
+
+# mac 불필요파일
+.DS_Store
